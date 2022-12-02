@@ -1,0 +1,17 @@
+{
+  "program": {
+    "candyMachine": "HpmubRDAQ6tihz3u92eKUJBMJw1JgpZEhDuwKtKXHwYR",
+    "candyMachineCreator": "FDvQ3XnbetRcMETJCCZJLTTRDZXuWoXV96FTSTA3iibP",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Blockchain 101",
+      "image_hash": "c0f2c7bd47ebca6440f2709b19c119b2c281500c16bd33a23f1413d7823c40d8",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihvka3gsunsd6e2vmnrki7nvglgevofu2rryhw65hwndk7sw4rqdq/0.png",
+      "metadata_hash": "402fcd04e392046d811f5d6c465ced16c339666f8f4a43892ca7cd18230745cf",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeib5xovsxc3ctgsk7p2znmktbzxvaxdpwzs6outlakorgxrooovhmm/0.json",
+      "onChain": true
+    }
+  }
+}

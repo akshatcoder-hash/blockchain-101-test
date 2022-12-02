@@ -1,0 +1,20 @@
+{
+    "name": "Blockchain 101",
+    "symbol": "FOSS",
+    "description": "I Attended Blockchain 101 by FOSS Community.",
+    "image": "0.png",
+    "attributes": [
+      {
+        "trait_type": "Certification",
+        "value": "Blockchain-101"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
